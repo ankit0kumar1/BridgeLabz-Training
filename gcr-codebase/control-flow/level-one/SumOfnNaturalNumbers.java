@@ -7,7 +7,7 @@ public class SumOfnNaturalNumbers{
 		System.out.print("Enter a number: ");
 		int number = input.nextInt();
 		
-		if (number > 0){
+		if (number >= 0){
 		
 		//Formula to calculate the sum of n natural numbers
 		int sumFormula = number * (number + 1) / 2;
