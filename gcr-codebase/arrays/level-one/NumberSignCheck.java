@@ -38,5 +38,6 @@ public class NumberSignCheck{
 		
 		input.close();
 		
+		
 	}
 }
