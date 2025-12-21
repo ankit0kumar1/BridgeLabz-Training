@@ -20,5 +20,7 @@ public class RemainderAndQuotient{
 		result[0]= number/divisor;
 		result[1] = number%divisor;
 		return result;
+		
+		
 	}
 }
