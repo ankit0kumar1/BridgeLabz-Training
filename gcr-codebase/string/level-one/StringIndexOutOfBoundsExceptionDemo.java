@@ -24,11 +24,11 @@ public class StringIndexOutOfBoundsExceptionDemo{
 		String text = input.next();
 		
 		// 1. Calling method that generates exception
-        System.out.println("Generating NullPointerException:");
+        System.out.println("Generating StringIndexOutOfBoundsExceptionDemo:");
        // generateException(text);
 
         // 2. Refactored code – handling the exception
-        System.out.println("\nHandling NullPointerException:");
+        System.out.println("\nHandling StringIndexOutOfBoundsExceptionDemo:");
         handleException(text);
 		
 	}
