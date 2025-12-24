@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Anagrams{
+public class Anagram{
 	// method that check anagrams 
 	public static boolean findAnagrams(String stringOne, String stringTwo){
 		if(stringOne.length() != stringTwo.length()){
