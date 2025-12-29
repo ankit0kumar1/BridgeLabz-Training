@@ -9,6 +9,7 @@ public class Student {
 		this.cgpa = cgpa;
 		
 	}
+	
 	public double getCgpa() {
 		return cgpa;
 	}
