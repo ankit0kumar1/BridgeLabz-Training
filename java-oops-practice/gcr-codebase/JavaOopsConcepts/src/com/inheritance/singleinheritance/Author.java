@@ -1,5 +1,19 @@
 package com.inheritance.singleinheritance;
 
-public class Author {
+public class Author extends Book{
+	private String name;
+    private String bio;
 
+    public Author(String title, int publicationYear, String name, String bio) {
+        super(title, publicationYear);
+        this.name = name;
+        this.bio = bio;
+    }
+
+    @Override
+    public void displayInfo() {
+        super.displayInfo();  // Call Book's method
+        System.out.println("Author Name: " + name);
+        System.out.println("Author Bio: " + bio);
+    }
 }
