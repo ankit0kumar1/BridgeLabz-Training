@@ -96,3 +96,40 @@ BridgeLabz-Training
 
  🔗 *Code Link:*  
 👉 [Day 5 –Java Arrays](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+
+## 📅 Day 6 – Java Methods 
+**(Date: 20-Dec-2025)**
+
+- Practiced **Java Methods** to understand modular and reusable code design.
+- Problems were categorized into **three levels**:
+  - **Level 1**: Simple method creation and invocation
+  - **Level 2**: Methods with parameters and return values
+  - **Level 3**: Logical problems using multiple methods
+
+- Added a new **`methods`** folder inside `gcr-codebase`.
+
+📁 **Updated Directory Structure**
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   └── program-prerequisite
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+
+🔗 *Code Link:*  
+👉 [Day 6 – Java Methods](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
