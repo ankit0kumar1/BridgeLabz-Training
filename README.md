@@ -173,3 +173,48 @@ BridgeLabz-Training
 
 🔗 *Code Link:*  
 👉 [Day 7 – Java Strings](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
+
+## 📅 Day 8 – Extras & Advanced Practice  
+**(Date: 23-Dec-2025)**
+**(Extended Java Concepts & Built-in Features)**
+
+- Worked on **additional Java practice programs** beyond core concepts.
+- Created a new **`extras`** folder inside `gcr-codebase`.
+- Practiced problems related to:
+  - **String Handling** (advanced string operations)
+  - **Date & Time** (using Java Date-Time API)
+  - **Built-in Functions** (Java utility and helper methods)
+
+- Organized advanced programs into well-structured subfolders under `extras` for better maintainability.
+  
+## 📁 Updated Folder Structure
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   ├── strings
+│   │   ├── program-prerequisite
+│   │   └── extras
+│   │       ├── string-handling
+│   │       ├── stringdatetime
+│   │       └── additional-programming
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+
+
+🔗 *Code Link:*  
+👉 [Day 8– Extras & Advanced Practice ](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
