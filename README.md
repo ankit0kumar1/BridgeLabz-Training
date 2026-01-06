@@ -80,3 +80,19 @@ BridgeLabz-Training
 
 🔗 *Code Link:*  
 👉 [Day 4 – Java Control Flow](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+
+## 📅 Day 5 – Java Arrays 
+**(Date:19-Dec-2025)**
+**(Data Storage & Manipulation Techniques)**
+
+- Learned and practiced **Java Arrays** for handling collections of data.
+- Problems were divided into **two levels**:
+  - **Level 1**: Basic array creation, traversal, and input/output
+  - **Level 2**: Logical problems such as searching, counting, and data manipulation
+
+- Followed proper **coding standards** with consistent indentation and naming conventions.
+- Programs were stored under the `arrays` folder in `gcr-codebase`.
+
+ 🔗 *Code Link:*  
+👉 [Day 5 –Java Arrays](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
