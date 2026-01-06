@@ -218,3 +218,22 @@ BridgeLabz-Training
 
 🔗 *Code Link:*  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+
+## 📘 Day 9 – Java OOPS: Class & Object  
+**📅 Date:** 26-Dec-2025  
+**🎯 Focus:** Core OOPS Fundamentals – Classes and Objects  
+
+### 🔹 What I Learned
+- Learned the fundamental concepts of **Classes and Objects** in Java.
+- Understood how a **class** acts as a blueprint (data + behavior) and how **objects** represent real-world instances.
+- Practiced designing classes using **variables (fields)** and **methods**.
+- Created and worked with **multiple objects** from the same class.
+- Gained a better understanding of **object communication through method calls**.
+- Emphasized writing **clean, readable, and well-structured OOPS-based code**.
+- Followed **standard naming conventions**, proper indentation, and consistent formatting.
+- Systematically organized all **Class & Object programs** under the `java-oops-practice` branch.
+
+🔗 **Code Link:** 👉 [Day 9 – Class and Objects](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+---
