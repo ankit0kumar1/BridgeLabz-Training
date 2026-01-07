@@ -100,4 +100,35 @@
 
 ---
 
+## 📅 Day 13 – Java OOPS: Inheritance
+
+**(Date: 31-Dec-2025)**  
+**(Focus: Inheritance & Code Reusability in OOPS)**
+
+-> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
+
+-> Learned how superclass (parent) and subclass (child) are connected through inheritance.
+
+-> Practiced single inheritance to reuse and extend the features of an existing base class.
+
+-> Explored multilevel inheritance, where a class derives from another derived class.
+
+-> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
+
+-> Used the `extends` keyword to create inheritance relationships between classes.
+
+-> Understood the concept of method overriding in inherited classes.
+
+-> Learned the importance of the `super` keyword for accessing parent class constructors and methods.
+
+-> Emphasized writing clean, readable, and well-structured OOPS-based code.
+
+-> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
+
+-> Systematically organized all inheritance-based programs in the `java-oops-practice` branch.
+
+🔗 **Code Link:** 👉 [Day 13 – Inheritance](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+
+### 🔹 Scenario-Based OOPS Practice
+👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
