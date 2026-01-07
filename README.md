@@ -41,3 +41,135 @@
 
 🔗 **Code Link:**  
 👉 [Day 10 – Constructors & Instance vs Class Concepts](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/consturctors/level1)
+
+---
+
+## 📅 Day 11 – Java OOPS: Core Java Keywords
+
+**(Date: 29-Dec-2025)**  
+**(Focus: static, final, this, instanceof)**
+
+-> Studied essential Java keywords and their role in OOPS-based programming.
+
+-> Understood the use of `static` keyword for class-level variables, methods, and shared behavior.
+
+-> Learned how `final` keyword is used to restrict modification of variables, methods, and classes.
+
+-> Practiced using `this` keyword to refer to the current object and resolve ambiguity between instance variables and parameters.
+
+-> Gained clarity on the `instanceof` operator to check object type at runtime.
+
+-> Implemented small programs to observe how these keywords affect object behavior and memory usage.
+
+-> Focused on writing clean, readable, and well-structured OOPS-based code.
+
+-> Followed proper naming conventions, indentation, and consistent formatting.
+
+-> Organized all keyword-based programs systematically in the `java-oops-practice` branch.
+
+🔗 **Code Link:** 👉 [Day 11 – static, final, this, instanceof](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+
+---
+
+## 📅 Day 12 – Java OOPS: Data Modeling & Object Relationships
+
+**(Date: 30-Dec-2025)**  
+*(Focus: Data Modeling, Association, Aggregation & Composition)*
+
+-> Learned the concept of data modeling in object-oriented programming to represent real-world systems.
+
+-> Understood different types of object relationships and how classes interact with each other.
+
+-> Studied Association to model communication and relationships between independent objects.
+
+-> Learned Aggregation to represent a "has-a" relationship where objects can exist independently.
+
+-> Understood Composition as a strong form of aggregation where the lifecycle of child objects depends on the parent.
+
+-> Practiced designing class diagrams conceptually before implementing code.
+
+-> Implemented simple programs to demonstrate real-world examples of association, aggregation, and composition.
+
+-> Focused on writing clean, modular, and well-structured OOPS-based code.
+
+-> Followed proper naming conventions, indentation, and consistent formatting.
+
+-> Organized all data-modeling and relationship-based programs systematically in the `java-oops-practice` branch.
+
+🔗 **Code Link:** 👉 [Day 12 – Data Modeling, Association, Aggregation & Composition](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
+---
+
+## 📅 Day 13 – Java OOPS: Inheritance
+
+**(Date: 31-Dec-2025)**  
+**(Focus: Inheritance & Code Reusability in OOPS)**
+
+-> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
+
+-> Learned how superclass (parent) and subclass (child) are connected through inheritance.
+
+-> Practiced single inheritance to reuse and extend the features of an existing base class.
+
+-> Explored multilevel inheritance, where a class derives from another derived class.
+
+-> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
+
+-> Used the `extends` keyword to create inheritance relationships between classes.
+
+-> Understood the concept of method overriding in inherited classes.
+
+-> Learned the importance of the `super` keyword for accessing parent class constructors and methods.
+
+-> Emphasized writing clean, readable, and well-structured OOPS-based code.
+
+-> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
+
+-> Systematically organized all inheritance-based programs in the `java-oops-practice` branch.
+
+🔗 **Code Link:** 👉 [Day 13 – Inheritance](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+
+### 🔹 Scenario-Based OOPS Practice
+👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+## 📅 Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
+
+**Date:** 01-Jan-2026  
+**Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces
+
+- Solved 4 real-world, scenario-based OOPS problems using proper object-oriented design techniques.
+
+- Implemented Encapsulation by securing data with private fields and providing controlled access using getters and setters.
+
+- Gained hands-on understanding of Polymorphism by using common method names with different implementations across classes.
+
+- Practiced Abstract Classes to define shared behavior with partial implementation.
+
+- Used Interfaces to define standard contracts implemented by multiple classes.
+
+- Followed a structured scenario-solving approach, including:
+  - Understanding the scenario and constraints
+  - Identifying entities, responsibilities, and relationships
+  - Designing classes, constructors, methods, and access modifiers
+
+- Applied Inheritance, Interfaces, and Polymorphism wherever logically required.
+
+- Selected appropriate data structures based on scenario requirements.
+
+- Focused on writing clean, modular, readable, and maintainable Java OOPS code.
+
+- Maintained consistent naming conventions, proper indentation, and logical structure.
+
+- Organized all OOPS practice programs systematically under the `java-oops-practice` branch.
+
+---
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+- **Java OOPS Concepts – Encapsulation & Polymorphism**  
+  👉 [Encapsulation & Polymorphism](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
