@@ -19,7 +19,7 @@ public class CircularTour {
 
 		int n = pumps.length;
 		int totalPetrol = 0; // total petrol - total distance
-		int currPetrol = 0; // c urrent petrol in tank
+		int currPetrol = 0; // current petrol in tank
 		int startIndex = 0;
 		for (int i = 0; i < n; i++) {
 			int petrol = pumps[i].petrol;
