@@ -1,5 +1,6 @@
 package com.loanbuddy;
 
+
 public abstract class LoanApplication implements IApprovable{
 	protected String loanType;
 	protected double term;

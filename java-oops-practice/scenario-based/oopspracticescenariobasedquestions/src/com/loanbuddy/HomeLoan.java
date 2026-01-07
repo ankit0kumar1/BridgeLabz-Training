@@ -2,8 +2,6 @@ package com.loanbuddy;
 
 public class HomeLoan extends LoanApplication {
 
-	
-
 	public HomeLoan(double term, Applicant applicant) {
 		super("HomeLoan", term, 6, applicant);
 
@@ -22,14 +20,12 @@ public class HomeLoan extends LoanApplication {
 
 	@Override
 	public void approveLoan() {
-		if(applicant.getCreditScore()<700 ) {
+		if (applicant.getCreditScore() < 700) {
 			System.out.println("Your loan cannot be approved.\nLow Credit score.\nBetter Luck Next Time");
-		}else {
+		} else {
 			System.out.println("Loan Approved");
 		}
-		
-	}
 
-	
+	}
 
 }

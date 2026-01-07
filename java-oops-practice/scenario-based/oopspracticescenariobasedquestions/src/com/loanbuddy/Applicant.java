@@ -1,5 +1,6 @@
 package com.loanbuddy;
 
+
 public class Applicant {
 	private String name;
 	private int creditScore;

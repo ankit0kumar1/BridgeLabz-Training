@@ -1,5 +1,6 @@
 package com.loanbuddy;
 
+
 public class AutoLoan extends LoanApplication {
 
 	public AutoLoan(double term, Applicant applicant) {
@@ -18,6 +19,8 @@ public class AutoLoan extends LoanApplication {
 		return emi;
 	}
 
+	
+	
 	@Override
 	public void approveLoan() {
 		if (applicant.getIncome() < 20000 && applicant.getCreditScore() < 670) {

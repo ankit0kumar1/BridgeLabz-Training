@@ -17,6 +17,8 @@ public class PersonalLoan extends LoanApplication {
 		return emi;
 	}
 
+	
+	
 	@Override
 	public void approveLoan() {
 		if (applicant.getIncome() < 40000 && applicant.getCreditScore() < 750) {

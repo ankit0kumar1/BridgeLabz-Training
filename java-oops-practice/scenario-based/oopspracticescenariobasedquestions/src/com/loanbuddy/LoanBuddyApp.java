@@ -1,5 +1,6 @@
 package com.loanbuddy;
 
+
 import java.util.*;
 public class LoanBuddyApp {
 
@@ -56,7 +57,7 @@ public class LoanBuddyApp {
 		loan.approveLoan();
 		double emi = loan.calculateEMI();
 
-		// ---- Output ----
+		
 		System.out.println("Loan Summary");
 		System.out.println("Applicant Name : " + applicant.getName());
 		System.out.println("Loan Type      : " + loan.getLoanType());
