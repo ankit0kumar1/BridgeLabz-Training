@@ -503,5 +503,4 @@ BridgeLabz-Training
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
   
-### 🔗 Code Repository
 🔗 **Code Link:** 👉 Day 17 - [Sorting](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
