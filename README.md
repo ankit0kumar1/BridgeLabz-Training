@@ -219,7 +219,7 @@ BridgeLabz-Training
 🔗 *Code Link:*  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
-
+# Week 2 : Java OOPS
 ## 📘 Day 9 – Java OOPS: Class & Object  
 **📅 Date:** 26-Dec-2025  
 **🎯 Focus:** Core OOPS Fundamentals – Classes and Objects  
@@ -449,4 +449,30 @@ BridgeLabz-Training
 
   ---
 
+## 📅 Day 16 – Data Structures & Algorithms: Stack, Queue & Hashing
+
+**(Date: 03-Jan-2026)**  
+**(Focus: DSA Fundamentals – Stack, Queue, HashMap & Hashing)**
+
+-> Learned the fundamentals of Stack as a linear data structure that follows the LIFO (Last In, First Out) principle.
+
+-> Understood common Stack operations such as push, pop, peek, and isEmpty.
+
+-> Studied Queue as a linear data structure that follows the FIFO (First In, First Out) principle.
+
+-> Learned Queue operations including enqueue, dequeue, front, and rear.
+
+-> Explored different Queue implementations and real-world use cases.
+
+-> Studied Hashing as a technique to map data to fixed-size values for fast access.
+
+-> Understood how HashMap stores data in key–value pairs using hashing.
+
+-> Learned about hash functions, collision handling, and efficient searching.
+
+-> Practiced implementing Stack, Queue, and HashMap concepts using Java.
+
+-> Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
+
+🔗 **Code Link:** 👉 Day 2 – [Stack, Queue](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue) & [Hashing (DSA)](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandhashfunction)
 
