@@ -474,5 +474,6 @@ BridgeLabz-Training
 
 -> Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
 
-🔗 **Code Link:** 👉 Day 2 – [Stack, Queue](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue) & [Hashing (DSA)](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandhashfunction)
+🔗 **Code Link:** 👉 Day 16 – [Stack, Queue](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue) & [Hashing (DSA)](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandhashfunction)
 
+🔗 **Code Link:** 👉 Day 16 - [Scnario-based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
