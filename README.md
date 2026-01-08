@@ -416,8 +416,8 @@ BridgeLabz-Training
 │   │           └── com
 │   │               ├── linkedlist
 │   │               ├── sortingalgorithms
-│   │               └── stackqueueandhashmaps
-│   │
+│   │               └── stackqueue
+│   │               └──hashmapandhashingfunction
 │   ├── scenario-based
 │   └── leet-code-codebase
 │
@@ -477,3 +477,30 @@ BridgeLabz-Training
 🔗 **Code Link:** 👉 Day 16 – [Stack, Queue](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue) & [Hashing (DSA)](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandhashfunction)
 
 🔗 **Code Link:** 👉 Day 16 - [Scnario-based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+## 📅 Day 17 – Java DSA: Sorting Algorithms
+
+**Date:** 05-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Bubble Sort – Student Marks
+- Insertion Sort – Employee IDs
+- Selection Sort – Exam Scores
+- Merge Sort – Book Prices
+- Quick Sort – Product Prices
+- Heap Sort – Job Applicants’ Salary
+- Counting Sort – Student Ages (10–18)
+
+---
+
+### 🔗 Code Repository
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
