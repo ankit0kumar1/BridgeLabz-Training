@@ -32,7 +32,7 @@ public class CircularTour {
 				currPetrol = 0;
 			}
 		}
-		// if total petrol is less than total distance, tour not possible
+		// if total petrol is less than total distance, tour not possibles
 		if (totalPetrol < 0) {
 			return -1;
 		}
