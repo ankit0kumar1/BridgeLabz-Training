@@ -167,3 +167,63 @@
 
 - **Java OOPS Concepts – Encapsulation & Polymorphism**  
   👉 [Encapsulation & Polymorphism](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
+  
+---
+
+## 📅 Day 7 – Java OOPS: Scenario-Based Programming
+
+**Date:** 02-Jan-2026  
+
+**Focus:** Classes, Constructors, Access Modifiers, Interfaces, Operators & Core OOP Principles  
+*(Encapsulation, Inheritance, Abstraction, Polymorphism)*
+
+Worked on **real-world, story-driven Java problems**, each designed as a mini use-case to apply core OOPS concepts.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**1. Hospital Patient Management System**  
+- Classes: Patient, Doctor, Bill  
+- Interface: `Payable` → `calculatePayment()`  
+- Inheritance: InPatient, OutPatient extend Patient  
+- Encapsulation: Private medical data with controlled access  
+- Polymorphism: `displayInfo()` overridden for entities  
+
+**2. Vehicle Rental Application**  
+- Classes: Vehicle, Bike, Car, Truck, Customer  
+- Interface: `Rentable` → `calculateRent(int days)`  
+- Inheritance: Vehicle → Bike/Car/Truck  
+- Polymorphism: Rent calculation varies by vehicle  
+
+**3. University Course Enrollment System**  
+- Classes: Student, Course, Faculty, Enrollment  
+- Interface: `Graded` → `assignGrade()`  
+- Inheritance: Undergraduate, Postgraduate extend Student  
+- Polymorphism: Different grading styles  
+
+**4. E-Wallet Application**  
+- Classes: User, Wallet, Transaction  
+- Interface: `Transferrable` → `transferTo()`  
+- Inheritance: PersonalWallet, BusinessWallet  
+- Encapsulation: Secure balance handling  
+
+**5. Smart Home Automation System**  
+- Classes: Appliance, Light, Fan, AC, UserController  
+- Interface: `Controllable` → `turnOn()`, `turnOff()`  
+- Inheritance: Appliance → device types  
+- Polymorphism: Device-specific behavior  
+
+---
+
+### 📘 Key Learnings
+- Applied OOPS concepts through real-world scenarios  
+- Improved class design and system modeling skills  
+- Focused on clean, modular, and maintainable Java code
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+  
+---
