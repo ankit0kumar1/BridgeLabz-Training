@@ -227,3 +227,46 @@ Worked on **real-world, story-driven Java problems**, each designed as a mini us
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
   
 ---
+
+## 📅 Day 08 – Java OOPS: Scenario-Based 
+
+**Date:** 03-Jan-2026  
+**Focus:** Classes, Interfaces, Encapsulation, Inheritance & Polymorphism
+
+Worked on backend logic for **real-world, startup-style Java scenarios**, focusing on clean OOPS-based design.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**6. CabbyGo – Ride-Hailing Application**
+- Classes: Vehicle, Driver  
+- Interface: `IRideService` → `bookRide()`, `endRide()`  
+- Inheritance: Mini, Sedan, SUV extend Vehicle  
+- Encapsulation: Sensitive data (location, fare) kept private  
+- Polymorphism: Ride behavior varies by vehicle type  
+- Operators: Fare calculation → `baseFare + distance * rate`  
+
+**7. MyBank – Customer Account Management**
+- Base Class: Account (`accountNumber`, `balance`)  
+- Derived Classes: SavingsAccount, CurrentAccount  
+- Interface: `ITransaction` → `deposit()`, `withdraw()`, `checkBalance()`  
+- Encapsulation: Balance modified only through methods  
+- Polymorphism: `calculateInterest()` differs by account type  
+- Operators: Interest calculation → `balance * interestRate / 100`  
+
+---
+
+### 📘 Key Learnings
+- Designed backend systems using real-world problem stories  
+- Applied inheritance and polymorphism for scalable design  
+- Improved encapsulation and access control practices  
+- Focused on clean, maintainable, and modular Java code
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
