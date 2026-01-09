@@ -1,6 +1,6 @@
 package com.prarkease;
 
-public abstract class Vehicle {
+public abstract class Vehicle implements IPayable{
 
 	private String vehicleNumber;
 

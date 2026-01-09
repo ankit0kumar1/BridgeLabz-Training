@@ -1,5 +1,5 @@
 package com.prarkease;
 
 public interface IPayable {
-	double calculateCharges(int hours)
+	double calculateCharges(int hours);
 }

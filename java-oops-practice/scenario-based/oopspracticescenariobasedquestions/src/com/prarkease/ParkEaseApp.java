@@ -13,7 +13,7 @@ public class ParkEaseApp {
         ParkingSlot bikeSlot = new ParkingSlot(102, "Bike");
         ParkingSlot truckSlot = new ParkingSlot(103, "Truck");
 
-        System.out.println("===== Welcome to ParkEase =====");
+        System.out.println(" Welcome to ParkEase ");
 
         System.out.print("Enter Vehicle Number: ");
         String vehicleNumber = sc.nextLine();
@@ -27,7 +27,7 @@ public class ParkEaseApp {
         Vehicle vehicle = null;
         ParkingSlot assignedSlot = null;
 
-        // Create vehicle based on user input
+        //creating vehicle based on user input
         if (vehicleType.equalsIgnoreCase("Car")) {
             vehicle = new Car(vehicleNumber);
             assignedSlot = carSlot;
@@ -43,7 +43,7 @@ public class ParkEaseApp {
             return;
         }
 
-        // Assign slot
+        //assign slot
         if (assignedSlot.assignSlot(vehicle)) {
             System.out.println("Vehicle parked successfully in slot " + vehicleType);
         } else {
@@ -52,7 +52,7 @@ public class ParkEaseApp {
             return;
         }
 
-        // Calculate charges (polymorphism)
+        // Calculate charges 
         double charges = vehicle.calculateCharges(hours);
         System.out.println("Total parking charges: ₹" + charges);
 
