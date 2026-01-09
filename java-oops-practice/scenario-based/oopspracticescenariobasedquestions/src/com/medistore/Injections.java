@@ -6,7 +6,7 @@ public class Injections extends Medicine{
 
 	public Injections(String name, double price, LocalDate expiryDate) {
 		super(name, price, expiryDate);
-		this.type
+		
 	}
 
 	@Override
