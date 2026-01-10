@@ -370,3 +370,53 @@ Worked on real-world Java application scenarios across **education, fitness, pet
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 11 – Java OOPS: Scenario-Based 
+
+**Date:** 07-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation, Polymorphism & Operators
+
+Designed and implemented **real-world backend systems** for fintech, e-commerce, and smart-city domains using Java OOPS principles.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**14. LoanBuddy – Loan Approval Automation**
+- Classes: Applicant, LoanApplication  
+- Interface: `IApprovable` → `approveLoan()`, `calculateEMI()`  
+- Inheritance: HomeLoan, AutoLoan extend base loan  
+- Encapsulation: Credit score and approval logic kept private  
+- Operators: EMI → `P × R × (1+R)^N / ((1+R)^N – 1)`  
+- Polymorphism: EMI calculation varies by loan type  
+- Access Control: Loan status modified only internally  
+
+**15. BookBazaar – Digital Bookstore System**
+- Classes: Book, Order  
+- Interface: `IDiscountable` → `applyDiscount()`  
+- Inheritance: EBook, PrintedBook extend Book  
+- Encapsulation: Inventory updates restricted to methods  
+- Operators: Total → `price × quantity – discount`  
+- Polymorphism: Discount logic differs by book type  
+
+**16. ParkEase – Smart Parking Management System**
+- Classes: ParkingSlot, Vehicle (Car, Bike, Truck)  
+- Interface: `IPayable` → `calculateCharges(duration)`  
+- Encapsulation: Slot availability and booking records protected  
+- Operators: Charges → `(baseRate × hours) + overtime penalty`  
+- Polymorphism: Charges vary by vehicle type  
+
+---
+
+### 📘 Key Learnings
+- Built scalable backend systems using OOPS  
+- Applied encapsulation for data safety and rule enforcement  
+- Used inheritance and interfaces for extensibility  
+- Implemented polymorphism for business-rule flexibility
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
