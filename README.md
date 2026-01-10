@@ -505,3 +505,26 @@ BridgeLabz-Training
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
   
 🔗 **Code Link:** 👉 Day 03 - [Sorting](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+---
+
+## 📅 Day 18 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+
+**(Date: 06-Jan-2026)**  
+**(Focus: String Handling, Searching & File Handling)**
+
+- Learned mutable string handling using `StringBuffer` and `StringBuilder`, along with their performance differences.
+
+- Studied efficient data searching methods such as linear search and binary search.
+
+- Practiced file handling with `BufferedReader` and focused on writing clean, optimized Java code following core Java best practices.
+
+---
+
+### 🔗 Code Repository
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+👉 StringBuffer, StringBuilder, and Searching
+
