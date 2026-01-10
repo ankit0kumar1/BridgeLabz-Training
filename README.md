@@ -312,3 +312,61 @@ Worked on real-world, system-style Java problems focusing on academic and e-comm
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 10 – Java OOPS: Scenario-Based Application Design
+
+**Date:** 06-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation, Polymorphism & Operators
+
+Worked on real-world Java application scenarios across **education, fitness, pet care, and event management domains**.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**10. EduMentor – Personalized Learning Platform**
+- Base Class: User (name, email, userId)  
+- Derived Classes: Learner, Instructor  
+- Interface: `ICertifiable` → `generateCertificate()`  
+- Encapsulation: Quiz answers and question banks kept private  
+- Operators: Score and percentage calculation  
+- Polymorphism: Certificate generation varies by course type  
+
+**11. FitTrack – Personal Fitness Tracker**
+- Classes: UserProfile, Workout  
+- Interface: `ITrackable` → `startWorkout()`, `stopWorkout()`  
+- Inheritance: CardioWorkout, StrengthWorkout extend Workout  
+- Encapsulation: Health data and workout logs protected  
+- Operators: Progress → `dailyTarget - caloriesBurned`  
+- Polymorphism: `calculateCalories()` differs by workout type  
+
+**12. PetPal – Virtual Pet Care App**
+- Base Class: Pet (name, type, age)  
+- Derived Classes: Dog, Cat, Bird  
+- Interface: `IInteractable` → `feed()`, `play()`, `sleep()`  
+- Encapsulation: Hunger, mood, and energy levels protected  
+- Operators: Interaction-based state updates  
+- Polymorphism: `makeSound()` differs per pet  
+
+**13. EventEase – Event Management Platform**
+- Classes: Event, User  
+- Interface: `ISchedulable` → `schedule()`, `reschedule()`, `cancel()`  
+- Inheritance: BirthdayEvent, ConferenceEvent extend Event  
+- Encapsulation: Pricing, eventId, and user data protected  
+- Operators: Cost → `venue + services - discounts`  
+- Polymorphism: Scheduling varies by event type  
+
+---
+
+### 📘 Key Learnings
+- Built multiple domain-based systems using OOPS  
+- Applied encapsulation to protect sensitive data  
+- Used inheritance and interfaces for extensible design  
+- Implemented polymorphism for flexible business logic
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
