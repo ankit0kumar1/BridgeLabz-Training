@@ -420,3 +420,46 @@ Designed and implemented **real-world backend systems** for fintech, e-commerce,
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 12 – Java OOPS: Scenario-Based Application Systems
+
+**Date:** 08-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation, Polymorphism & Operators
+
+Designed real-world Java backend modules for **healthcare inventory management and travel planning systems**.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**17. MediStore – Pharmacy Inventory & Sales System**
+- Class: Medicine (name, price, expiryDate, quantity)  
+- Interface: `ISellable` → `sell()`, `checkExpiry()`  
+- Inheritance: Tablet, Syrup, Injection extend Medicine  
+- Encapsulation: Stock levels and pricing logic kept private  
+- Operators: Total price, discounts, stock adjustments  
+- Polymorphism: Expiry checks differ for solid vs liquid medicines  
+
+**18. TourMate – Travel Itinerary Planner**
+- Class: Trip (destination, budget, duration)  
+- Associated Classes: Transport, Hotel, Activity  
+- Interface: `IBookable` → `book()`, `cancel()`  
+- Encapsulation: Cost breakdown hidden inside services  
+- Operators: Total budget → `hotel + transport + activities`  
+- Inheritance: InternationalTrip, DomesticTrip extend Trip  
+- Polymorphism: Booking logic varies by trip type  
+
+---
+
+### 📘 Key Learnings
+- Modeled real-world systems using object relationships  
+- Applied encapsulation to protect internal business logic  
+- Used inheritance and interfaces for scalable design  
+- Implemented polymorphism for flexible system behavior
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
