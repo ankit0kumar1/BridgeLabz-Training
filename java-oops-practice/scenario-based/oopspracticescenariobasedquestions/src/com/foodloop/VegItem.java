@@ -1,0 +1,11 @@
+package com.foodloop;
+
+public class VegItem extends FoodItem{
+
+	public VegItem(String name, double price, int stock) {
+		super(name, price, stock, "Veg");
+
+	}
+	
+	
+}
