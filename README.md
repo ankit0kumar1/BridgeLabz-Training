@@ -463,3 +463,45 @@ Designed real-world Java backend modules for **healthcare inventory management a
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 13 – Java OOPS: Scenario-Based Application Design
+
+**Date:** 09-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation, Polymorphism & Operators
+
+Implemented Java backend logic for **digital marketplace and food-ordering systems**, applying real-world OOPS design.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**19. Artify – Digital Art Marketplace**
+- Classes: Artwork, User  
+- Interface: `IPurchasable` → `purchase()`, `license()`  
+- Inheritance: DigitalArt, PrintArt extend Artwork  
+- Encapsulation: Licensing terms protected  
+- Operators: Wallet balance deduction on purchase  
+- Polymorphism: Licensing behavior varies by art type  
+
+**20. FoodLoop – Restaurant Ordering System**
+- Classes: FoodItem, Order  
+- Interface: `IOrderable` → `placeOrder()`, `cancelOrder()`  
+- Inheritance: VegItem, NonVegItem extend FoodItem  
+- Encapsulation: Item stock levels hidden  
+- Operators: Total → `sum(items) - discounts`  
+- Polymorphism: Discount logic varies by order total  
+
+---
+
+### 📘 Key Learnings
+- Designed marketplace and ordering systems using OOPS  
+- Strengthened encapsulation for financial and stock data  
+- Applied inheritance and interfaces for extensibility  
+- Used polymorphism for flexible business rules
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
