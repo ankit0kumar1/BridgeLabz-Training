@@ -270,3 +270,45 @@ Worked on backend logic for **real-world, startup-style Java scenarios**, focusi
 
 ---
 
+## 📅 Day 09 – Java OOPS: Scenario-Based System Design
+
+**Date:** 05-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation, Polymorphism & Operators
+
+Worked on real-world, system-style Java problems focusing on academic and e-commerce backend design.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**8. CampusConnect – College Information System**
+- Base Class: Person (name, email, id)  
+- Derived Classes: Student, Faculty  
+- Interface: `ICourseActions` → `enrollCourse()`, `dropCourse()`  
+- Course class maintains enrolled students and assigned faculty  
+- Encapsulation: Student grades kept private  
+- Operators: GPA calculation using grades  
+- Polymorphism: `printDetails()` differs for Student and Faculty  
+
+**9. SwiftCart – Grocery Shopping Application**
+- Classes: Product, Cart  
+- Interface: `ICheckout` → `generateBill()`, `applyDiscount()`  
+- Inheritance: PerishableProduct, NonPerishableProduct  
+- Encapsulation: Price calculations restricted to Cart  
+- Operators: Total → `price × quantity`, Discount → `totalPrice - coupon`  
+- Polymorphism: Discount logic varies by product type  
+
+---
+
+### 📘 Key Learnings
+- Designed academic and e-commerce backend modules  
+- Applied inheritance and interfaces for scalable systems  
+- Improved encapsulation and access control  
+- Strengthened polymorphism through real business logic
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
