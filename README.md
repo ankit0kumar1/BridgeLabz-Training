@@ -526,5 +526,5 @@ BridgeLabz-Training
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
-👉 StringBuffer, StringBuilder, and Searching
+👉 [StringBuffer, StringBuilder, File Handling and Searching](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
