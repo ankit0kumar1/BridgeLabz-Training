@@ -538,9 +538,29 @@ BridgeLabz-Training
 - Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
 
 - **Scenario-Based OOPS Practice**  
-  👉 Scenario Based: parkease
+  👉 [Scenario Based: parkease](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
 
-🔗 **Code Link:** 👉 Day 19 – Data Structures: Time & Space Complexity
+🔗 **Code Link:** 👉 Day 19 – [Data Structures: Time & Space Complexity](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
 
+---
+
+## 📅 Day 21 – Real-World Scenario-Based OOP Problems
+
+**Date:** 08-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Implemented real-world OOP scenarios
+- Applied Encapsulation, Inheritance & Polymorphism
+- Built scalable, modular designs
+- Improved system design & interview readiness
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based OOP Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
