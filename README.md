@@ -564,3 +564,45 @@ BridgeLabz-Training
 ### 🔗 Code:
 
 👉 [Scenario-Based OOP Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
+## 📅 Day 22 – Scenario-Based Application Design
+
+**Date:** 09-Jan-2026  
+**Focus:** Inheritance, Interfaces, Encapsulation & Polymorphism
+
+Worked on real-world Java backend scenarios across **marketplace, food-ordering, and e-learning domains**.
+
+---
+
+### 🔹 Scenario-Based Problems
+
+**19. Artify – Digital Art Marketplace**  
+- Artwork & User classes, `IPurchasable` interface  
+- Inheritance: DigitalArt, PrintArt  
+- Encapsulation of licensing terms  
+- Polymorphic licensing behavior  
+
+**20. FoodLoop – Restaurant Ordering System**  
+- FoodItem & Order classes, `IOrderable` interface  
+- Inheritance: VegItem, NonVegItem  
+- Encapsulation of stock & pricing  
+- Polymorphic discount logic  
+
+**21. SkillForge – Online Learning Portal**  
+- Course & User (Student, Instructor)  
+- `ICertifiable` interface  
+- Encapsulation of ratings & reviews  
+- Polymorphic certificate generation  
+
+---
+
+### 📘 Key Takeaways
+- Applied OOPS principles to real system designs  
+- Improved modularity, scalability, and clarity
+### 🔗 Code:
+
+👉 [Scenario-Based OOP Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
