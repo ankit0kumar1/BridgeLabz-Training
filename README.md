@@ -606,3 +606,31 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Scenario-Based OOP Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 22 – Scenario-Based DSA Problems
+
+**Date:** 10-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Applied DSA to real-world scenarios
+- Focused on efficient data structure selection
+
+---
+
+### 🔹 Implementations
+
+- **BookShelf:** HashMap + LinkedList
+- **BrowserBuddy:** Doubly Linked List + Stack
+- **AmbulanceRoute:** Circular Linked List
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
+
