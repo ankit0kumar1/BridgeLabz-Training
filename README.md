@@ -634,3 +634,36 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 ---
 
+## 📅 Day 23 – Scenario-Based DSA Problems
+
+**Date:** 12-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Applied DSA to real-world scenarios
+- Applied OOPS to real-world scenarios
+
+---
+
+### 🔹 Implementations
+
+- **CallCenter** – Queue + HashMap
+- **TrainCompanion** – Doubly Linked List
+- **TextEditor** – Stack
+- **TrafficManager** – Circular Linked List + Queue
+- **HomeNest** – Smart Home Device Manager
+- **BudgetWise** – Personal Finance Tracker
+- **GameBox** – Mobile Game Distribution Platform
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+  
+👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
+
