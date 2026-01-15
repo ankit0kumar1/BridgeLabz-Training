@@ -666,4 +666,33 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+## 📅 Day 24 – Scenario-Based DSA Problems
+
+**Date:** 13-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Applied DSA to real-world scenarios
+- Applied OOPS to real-world scenarios
+
+---
+
+### 🔹 Implementations
+
+- **SmartCheckout** – Supermarket Billing Queue (Queue + HashMap)
+- **ParcelTracker** – Delivery Chain Management (Singly Linked List)
+- **ExamProctor** – Online Exam Review System (Stack + HashMap + Functions)
+- **Bird Sanctuary** – Java OOP Scenario
+- **PayXpress** – Utility Bill Payment System
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
 
