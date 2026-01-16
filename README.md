@@ -695,4 +695,40 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
+---
+
+## 📘 Week 4 : Java Collections
+
+---
+
+## 📅 Day 25 – Scenario-Based DSA Problems
+
+**Date:** 15-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Applied DSA to real-world scenarios
+- Generics
+
+---
+
+### 🔹 Implementations
+
+- **HospitalQueue** – Patient Sorting by Criticality
+- **SmartShelf** – Real-Time Book Arrangement
+- **ZipZipMart** – Daily Sales Summary Report
+- **EventManager** – Ticket Price Optimizer
+- **ExamCell** – Student Rank Generator
+- **Generics** – Type Parameters, Generic Classes, Generic Methods,  
+  Bounded Type Parameters, Wildcards
+
+---
+
+### 🔗 Code:
+
+👉 Scenario-Based DSA Implementations  
+👉 Java Collection Generics
+
 
