@@ -2,29 +2,38 @@ package com.artexpo;
 
 class ArtExpo {
 
-    public static void insertionSort(int[] registrationTimes) {
-        for (int i = 1; i < registrationTimes.length; i++) {
-            int currentArtistTime = registrationTimes[i];
+    public static void insertionSort(Artist[] artists) {
+
+        for (int i = 1; i < artists.length; i++) {
+            Artist current = artists[i];
             int j = i - 1;
 
-            // Shift later registrations to the right
-            while (j >= 0 && registrationTimes[j] > currentArtistTime) {
-                registrationTimes[j + 1] = registrationTimes[j];
+            // Shift artists who registered later
+            while (j >= 0 && artists[j].registrationTime > current.registrationTime) {
+                artists[j + 1] = artists[j];
                 j--;
             }
 
-            // Insert the artist at the correct time position
-            registrationTimes[j + 1] = currentArtistTime;
+            // Insert artist at correct time position
+            artists[j + 1] = current;
         }
     }
 
     public static void main(String[] args) {
-        int[] registrations = {930, 945, 1000, 915, 1010};
+
+        Artist[] registrations = {
+            new Artist("Aditi", 930),
+            new Artist("Rohan", 945),
+            new Artist("Meera", 1000),
+            new Artist("Kabir", 915),
+            new Artist("Sana", 1010)
+        };
 
         insertionSort(registrations);
 
-        for (int time : registrations) {
-            System.out.print(time + " ");
+        System.out.println("Artists sorted by registration time:");
+        for (Artist a : registrations) {
+            System.out.println(a.name + " -> " + a.registrationTime);
         }
     }
 }
