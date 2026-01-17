@@ -2,42 +2,49 @@ package com.cropmonitor;
 
 class CropMonitor {
 
-	public static void quickSort(int[] timestamps, int low, int high) {
-		if (low < high) {
-			int pivotIndex = partition(timestamps, low, high);
+    public static void quickSort(Sensor[] data, int low, int high) {
+        if (low < high) {
+            int pivotIndex = partition(data, low, high);
 
-			quickSort(timestamps, low, pivotIndex - 1);
-			quickSort(timestamps, pivotIndex + 1, high);
-		}
-	}
+            quickSort(data, low, pivotIndex - 1);
+            quickSort(data, pivotIndex + 1, high);
+        }
+    }
 
-	private static int partition(int[] arr, int low, int high) {
-		int pivot = arr[high]; // last element as pivot
-		int i = low - 1;
+    private static int partition(Sensor[] data, int low, int high) {
+        long pivot = data[high].timestamp; // pivot by timestamp
+        int i = low - 1;
 
-		for (int j = low; j < high; j++) {
-			if (arr[j] <= pivot) {
-				i++;
-				int temp = arr[i];
-				arr[i] = arr[j];
-				arr[j] = temp;
-			}
-		}
+        for (int j = low; j < high; j++) {
+            if (data[j].timestamp <= pivot) {
+                i++;
+                Sensor temp = data[i];
+                data[i] = data[j];
+                data[j] = temp;
+            }
+        }
 
-		int temp = arr[i + 1];
-		arr[i + 1] = arr[high];
-		arr[high] = temp;
+        Sensor temp = data[i + 1];
+        data[i + 1] = data[high];
+        data[high] = temp;
 
-		return i + 1;
-	}
+        return i + 1;
+    }
 
-	public static void main(String[] args) {
-		int[] sensorTimestamps = { 12501, 12507, 12502, 12509 };
+    public static void main(String[] args) {
 
-		quickSort(sensorTimestamps, 0, sensorTimestamps.length - 1);
+        Sensor[] readings = {
+            new Sensor(17015, 24.6),
+            new Sensor(17011, 23.9),
+            new Sensor(17013, 25.1),
+            new Sensor(17012, 22.8)
+        };
 
-		for (long t : sensorTimestamps) {
-			System.out.print(t + " ");
-		}
-	}
+        quickSort(readings, 0, readings.length - 1);
+
+        System.out.println("Sensor data sorted by timestamp:");
+        for (Sensor s : readings) {
+            System.out.println(s.timestamp + " -> " + s.temperature);
+        }
+    }
 }
