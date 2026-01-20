@@ -728,7 +728,35 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 ### 🔗 Code:
 
-👉 Scenario-Based DSA Implementations  
-👉 Java Collection Generics
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)  
+👉 [Java Collection Generics](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
 
+---
+
+## 📅 Day 26 – List Interface, Map Interface, Queue Interface, and Set Interface
+
+**Date:** 16-Jan-2026
+
+---
+
+### 🔹 Topics Covered
+
+- Overview of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+- **RoboWarehouse** – Shelf Loading Robot
+- **CinemaHouse** – Movie Time Sorting
+- **CropMonitor** – Sensor Data Ordering
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)  
+👉 [Java Collection List Interface]  
+👉 [Java Collection Map Interface]  
+👉 [Java Collection Queue Interface]  
+👉 [Java Collection Set Interface]
 
