@@ -807,3 +807,21 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ---
+
+## 📅 Day 29 – Real-World Scenario-Based Problems Involving Sorting Algorithms
+
+**Date:** 20-Jan-2026
+
+---
+
+### 🔹 Implementations
+
+- **MovieTime** – Theater Show Listings
+- **FoodFest** – Sorting Stalls by Customer Footfall
+- **GamerZone** – High Score Ranking System
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
