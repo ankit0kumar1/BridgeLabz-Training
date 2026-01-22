@@ -760,3 +760,28 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Java Collection Queue Interface]  
 👉 [Java Collection Set Interface]
 
+---
+
+## 📅 Day 27 – Real-World Scenario-Based Problems Involving Sorting Algorithms
+
+**Date:** 17-Jan-2026
+
+---
+
+### 🔹 Scenario-Based Implementations
+
+- **FleetManager** – Vehicle Maintenance Scheduler
+- **ArtExpo** – Sort Artists by Registration Time
+- **SmartLibrary** – Auto-Sort Borrowed Books
+- **IceCreamRush** – Sorting Flavors by Popularity
+- **Bag-n-Ball Organizer**
+- **GeoMeasure**
+
+---
+
+### 🔗 Code:
+
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)  
+👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+---
