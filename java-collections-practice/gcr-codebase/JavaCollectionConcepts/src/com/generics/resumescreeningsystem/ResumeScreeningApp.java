@@ -1,4 +1,4 @@
-package com.resumescreeningsystem;
+package com.generics.resumescreeningsystem;
 
 import java.util.ArrayList;
 import java.util.List;

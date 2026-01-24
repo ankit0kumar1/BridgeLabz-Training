@@ -1,4 +1,4 @@
-package com.resumescreeningsystem;
+package com.generics.resumescreeningsystem;
 
 public class ResumeScreening {
 	public static <T extends JobRole> void screenResume(Resume<T> resume) {

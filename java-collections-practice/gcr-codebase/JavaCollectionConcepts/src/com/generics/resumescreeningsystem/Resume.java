@@ -1,4 +1,4 @@
-package com.resumescreeningsystem;
+package com.generics.resumescreeningsystem;
 
 class Resume<T extends JobRole> {
 

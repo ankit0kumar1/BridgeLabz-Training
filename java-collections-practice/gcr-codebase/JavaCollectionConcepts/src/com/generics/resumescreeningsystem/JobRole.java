@@ -1,4 +1,4 @@
-package com.resumescreeningsystem;
+package com.generics.resumescreeningsystem;
 
 abstract class JobRole {
 
