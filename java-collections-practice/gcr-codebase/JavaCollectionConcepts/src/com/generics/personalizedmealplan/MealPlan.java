@@ -1,4 +1,4 @@
-package com.personalizedmealplan;
+package com.generics.personalizedmealplan;
 
 interface MealPlan {
     String getMealType();

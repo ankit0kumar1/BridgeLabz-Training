@@ -1,4 +1,4 @@
-package com.personalizedmealplan;
+package com.generics.personalizedmealplan;
 
 public class MealPlanner {
     public static void main(String[] args) {

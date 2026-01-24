@@ -1,4 +1,4 @@
-package com.personalizedmealplan;
+package com.generics.personalizedmealplan;
 
 class HighProteinMeal implements MealPlan {
 
