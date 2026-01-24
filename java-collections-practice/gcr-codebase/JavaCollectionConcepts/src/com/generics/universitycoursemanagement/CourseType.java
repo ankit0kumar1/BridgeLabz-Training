@@ -1,15 +1,15 @@
-package com.universitycoursemanagement;
+package com.generics.universitycoursemanagement;
 
 public abstract class CourseType {
-	private String evaluationType;
+	private String title;
 	
-	public CourseType(String evalutationType) {
-		this.evaluationType = evalutationType;
+	public CourseType(String title) {
+		this.title = title;
 	}
 	
-	public String getEvaluationType() {
-		return evaluationType;
+	public String getTitle() {
+		return title;
 	}
 	
-	public abstract void evaluate();
+	public abstract void displayType();
 }

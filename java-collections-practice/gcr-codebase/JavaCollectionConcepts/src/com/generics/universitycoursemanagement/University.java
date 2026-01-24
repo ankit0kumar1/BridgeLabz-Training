@@ -1,33 +1,31 @@
-package com.universitycoursemanagement;
+package com.generics.universitycoursemanagement;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class University {
-
     public static void main(String[] args) {
 
-        Course<ExamBasedCourse> math =
-                new Course<>("Mathematics", new ExamBasedCourse());
+        // Create course containers
+        Course<ExamCourse> examCourses = new Course<>();
+        Course<AssignmentCourse> assignmentCourses = new Course<>();
+        Course<ResearchCourse> researchCourses = new Course<>();
+        //add courses
+        examCourses.addCourse(new ExamCourse("Math 101", 100));
+        examCourses.addCourse(new ExamCourse("physics 101", 80));
+        assignmentCourses.addCourse(new AssignmentCourse("English 101", 5));
+        assignmentCourses.addCourse(new AssignmentCourse("history  101", 4));
 
-        Course<AssignmentBasedCourse> cs =
-                new Course<>("Computer Science", new AssignmentBasedCourse());
+        researchCourses.addCourse(new ResearchCourse("Ai 101", "Machine learning"));
+        researchCourses.addCourse(new ResearchCourse("bio 101", "Genetics"));
 
-        Course<ResearchBasedCourse> phd =
-                new Course<>("PhD Research", new ResearchBasedCourse());
+        // Display courses 
+        System.out.println("--Exam Courses--");
+        CourseUtility.displayCourses(examCourses.getCourseList());
+        System.out.println("\n--- Assignment Courses ----");
+        CourseUtility.displayCourses(assignmentCourses.getCourseList());
 
-        System.out.println("Evaluating individual courses:");
-        math.evaluateCourse();
-        cs.evaluateCourse();
-        phd.evaluateCourse();
-
-        System.out.println("\nDisplaying all course types dynamically:");
-        List<CourseType> courseTypes = new ArrayList<>();
-        courseTypes.add(new ExamBasedCourse());
-        courseTypes.add(new AssignmentBasedCourse());
-        courseTypes.add(new ResearchBasedCourse());
-
-        ViewCourse.displayCourses(courseTypes);
+        System.out.println("-- Research Courses-");
+        CourseUtility.displayCourses(researchCourses.getCourseList());
     }
 }
-

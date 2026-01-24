@@ -1,22 +1,15 @@
-package com.universitycoursemanagement;
+package com.generics.universitycoursemanagement;
 
-public class Course <T extends CourseType>{
-	private String courseName;
-	private T courseType;
-	
-	public Course(String courseName, T courseType) {
-		this.courseName = courseName;
-		this.courseType = courseType;
-	}
-	
-	public String getCourseName() {
-		return courseName;
-	}
-	public T getCourseType() {
-        return courseType;
+import java.util.ArrayList;
+import java.util.List;
+//create Course class
+class Course<T extends CourseType> {
+    private List<T> courseList = new ArrayList<>();
+
+    public void addCourse(T course) {
+        courseList.add(course);
     }
-
-    public void evaluateCourse() {
-        courseType.evaluate();
+    public List<T> getCourseList() {
+        return courseList;
     }
 }
