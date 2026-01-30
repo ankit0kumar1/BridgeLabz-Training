@@ -1,0 +1,16 @@
+[ {
+  "id" : 101,
+  "name" : "Ankit",
+  "age" : 20,
+  "marks" : 88.0
+}, {
+  "id" : 102,
+  "name" : "Rahul",
+  "age" : 22,
+  "marks" : 75.0
+}, {
+  "id" : 103,
+  "name" : "Priya",
+  "age" : 19,
+  "marks" : 92.0
+} ]
