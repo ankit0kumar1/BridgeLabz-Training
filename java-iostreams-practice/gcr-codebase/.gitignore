@@ -30,3 +30,7 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+
+# Optional: generated JSON/output files
+output*.json
+filtered*.json
