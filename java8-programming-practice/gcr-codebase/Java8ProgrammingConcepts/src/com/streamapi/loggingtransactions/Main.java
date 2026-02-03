@@ -1,0 +1,11 @@
+package com.streamapi.loggingtransactions;
+
+import java.time.LocalDateTime;
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) {
+		List<String>transactionIds = Arrays.asList("TXN101","TXN102","TXN103","TXN104");
+		transactionIds.forEach(id -> System.out.println(LocalDateTime.now() + " - Transaction: " + id));
+	}
+}
