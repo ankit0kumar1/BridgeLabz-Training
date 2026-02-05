@@ -869,3 +869,19 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Day 30 – JUnit](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
 [Day 30 – Regex](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
+---
+
+# Day 31 – Reflection & Annotations (22-01-2026)
+
+- Studied Java Reflection for runtime class inspection
+- Learned dynamic method access and metadata analysis
+- Explored built-in and custom annotations
+- Used reflection to process annotations at runtime
+
+🔗 **Code Link:**  
+👉 [Day 31 – Reflection](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
+& [Annotations Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotations)
+
+---
+
+
