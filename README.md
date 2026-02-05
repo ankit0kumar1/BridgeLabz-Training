@@ -910,6 +910,27 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 ---
 
+## Day 2 – Java Data Handling: JSON Processing
+
+**Date:** 24-01-2026  
+
+**Focus:** Working with JSON Data in Java Applications
+
+- Studied **JSON (JavaScript Object Notation)** as a lightweight data exchange format
+- Practiced reading, parsing, and writing JSON data in Java
+- Worked with JSON objects and arrays for structured data manipulation
+- Implemented real-world Java scenarios using **Collections, I/O, Regex, and Generics**
+- Built **MedInventory**, **ChatLogParser**, **SongVault**, and **ExamResultUploader**
+
+🔗 **Code Link:**  
+👉 [Scenario-Based Questions](#)
+
+📁 **Code:**  
+👉 [JSON Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/json-practice)
+
+---
+
+
 
 
 
