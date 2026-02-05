@@ -840,4 +840,14 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 ---
 
+# Day 31 – Java File Handling & I/O Streams (19-01-2026)
+
+- Studied Java file handling using **byte** and **character streams**
+- Learned **basic vs buffered streams** and their performance benefits
+- Practiced **console input** and **file writing** using reader/writer classes
+
+🔗 **Code Link:**  
+👉 [Day 31 – Java File Handling & Streams Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/stream)
+
+---
 
