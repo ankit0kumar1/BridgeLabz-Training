@@ -850,4 +850,16 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Day 31 – Java File Handling & Streams Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/stream)
 
 ---
+# Day 32 – Java: Exception Handling (20-01-2026)
+
+- Studied exception handling to manage runtime errors safely
+- Learned `try`, `catch`, `finally`, `throw`, and `throws` usage
+- Explored **checked vs unchecked exceptions** and common runtime errors
+- Practiced creating and using **custom exceptions**
+- Focused on writing **robust and maintainable code**
+
+🔗 **Code Link:**  
+👉 [Day 32 – Exception Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exception)
+
+---
 
