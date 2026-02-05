@@ -883,5 +883,33 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 & [Annotations Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotations)
 
 ---
+# Week 5: Java IOStreams
+
+---
+
+## Day 1 – Java File Handling: CSV Data Processing
+
+**Date:** 23-01-2026  
+
+**Focus:** CSV Handling from Basics to Advanced Scenarios
+
+- Read, write, and count records in CSV files
+- Filter, search, update, and sort CSV data
+- Validate data using regex and detect duplicates
+- Convert CSV records into Java objects
+- **ResumeAnalyzer** – Extracted candidate data using regex and maps
+- **TravelLog** – Trip storage and analysis using serialization
+- **FeedbackGuru** – Feedback processing with generics
+- **CodeRepoCleaner & ExamScanner** – File scanning, validation, and ranking
+
+🔗 **Code Link:**  
+👉 [Scenario-Based Questions](#)
+
+📁 **Code:**  
+👉 [CSV Data Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/csvdatahandling)
+
+---
+
+
 
 
