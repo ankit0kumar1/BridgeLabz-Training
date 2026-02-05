@@ -825,3 +825,19 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 ### 🔗 Code:
 
 👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
+
+# Day 30 - Real-world scenario-based problems involving sorting algorithms
+
+**Date:** 21-Jan-2026
+
+- **TailorShop** – Sorting Orders by Delivery Deadline  
+- **MedWarehouse** – Sorting Medicines by Expiry  
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
+
+
