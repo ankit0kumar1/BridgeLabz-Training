@@ -862,4 +862,13 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Day 32 – Exception Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exception)
 
 ---
+# Day 33 – Java Fundamentals: Regex & JUnit (21-01-2026)
+
+- Studied **regex basics**, metacharacters, and quantifiers
+- Implemented regex use cases like **email**, **password**, and **phone validation**
+- Worked with Java Regex API using `Pattern` and `Matcher`
+
+🔗 **Code Link:**  
+👉 [Day 33 – JUnit](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
+[Day 33 – Regex](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
