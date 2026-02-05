@@ -806,6 +806,15 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)  
 👉 [Scenario-Based OOPS Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
+# Java File Handling & I/O Streams (19-01-2026)
+
+- Studied Java file handling using **byte** and **character streams**
+- Learned **basic vs buffered streams** and their performance benefits
+- Practiced **console input** and **file writing** using reader/writer classes
+
+🔗 **Code Link:**  
+👉 [Day 28 – Java File Handling & Streams Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/stream)
+
 ---
 
 ## 📅 Day 29 – Real-World Scenario-Based Problems Involving Sorting Algorithms
@@ -822,9 +831,21 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 
 ---
 
+
 ### 🔗 Code:
 
 👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+# Java: Exception Handling (20-01-2026)
+
+- Studied exception handling to manage runtime errors safely
+- Learned `try`, `catch`, `finally`, `throw`, and `throws` usage
+- Explored **checked vs unchecked exceptions** and common runtime errors
+- Practiced creating and using **custom exceptions**
+- Focused on writing **robust and maintainable code**
+
+🔗 **Code Link:**  
+👉 [Day 29 – Exception Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exception)
 
 ---
 
@@ -838,37 +859,13 @@ Worked on real-world Java backend scenarios across **marketplace, food-ordering,
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
----
-
-# Day 31 – Java File Handling & I/O Streams (19-01-2026)
-
-- Studied Java file handling using **byte** and **character streams**
-- Learned **basic vs buffered streams** and their performance benefits
-- Practiced **console input** and **file writing** using reader/writer classes
-
-🔗 **Code Link:**  
-👉 [Day 31 – Java File Handling & Streams Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/stream)
-
----
-# Day 32 – Java: Exception Handling (20-01-2026)
-
-- Studied exception handling to manage runtime errors safely
-- Learned `try`, `catch`, `finally`, `throw`, and `throws` usage
-- Explored **checked vs unchecked exceptions** and common runtime errors
-- Practiced creating and using **custom exceptions**
-- Focused on writing **robust and maintainable code**
-
-🔗 **Code Link:**  
-👉 [Day 32 – Exception Handling Practice](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exception)
-
----
-# Day 33 – Java Fundamentals: Regex & JUnit (21-01-2026)
+#  Java Fundamentals: Regex & JUnit (21-01-2026)
 
 - Studied **regex basics**, metacharacters, and quantifiers
 - Implemented regex use cases like **email**, **password**, and **phone validation**
 - Worked with Java Regex API using `Pattern` and `Matcher`
 
 🔗 **Code Link:**  
-👉 [Day 33 – JUnit](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
-[Day 33 – Regex](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
+👉 [Day 30 – JUnit](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/junitpractice/src)
+[Day 30 – Regex](https://github.com/ankit0kumar1/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
