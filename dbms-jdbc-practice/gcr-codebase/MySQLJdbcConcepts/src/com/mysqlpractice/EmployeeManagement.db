@@ -1,0 +1,97 @@
+/* 
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+*/
+
+
+CREATE DATABASE mysql_jdbc_practice;
+
+USE mysql_jdbc_practice;
+
+CREATE TABLE employe(
+	empId INT PRIMARY KEY,
+    name VARCHAR(150),
+    salary DOUBLE
+);
+
+
+1- Add Employe
+
+	INSERT INTO Employee(empId, name , salary)
+	Values
+	(101,'Ankit Kumar', 90000),
+	(102,'Aryan kumar', 57000),
+	(103,'Priyanshu', 60000),
+	(104,'Prince', 70000),
+	(105,'Sonal', 80000);
+
+	  
+ 
+ 
+ 2- View All Employees
+ 
+ 	SELECT * FROM employe;
+ 	
+Output: 
+	
+  SELECT * FROM employe;
++-------+------------------+------------+
+| empId | name             | salary |
++-------+----------------------+--------+
+|   101 | Ankit Kumar    | 90000|
+|   102 | Aryan kumar   |  57000|
+|   103 |Priyanshu        |  60000|
+|   104 | Prince	      |  70000|
+|   105 | Sonal               | 80000 |
++-------+---------------------+--------+
+
+3- Update employee salary
+
+	UPDATE employe SET salary=1000
+	WHERE empId=103;
+	
+	output: 
++---------+-------------------+---------+
+|empId | name		     | salary |
++---------+-------------------+---------+
+|101 | Ankit Kumar      | 90000 |
+|102 | Aryan kumar      | 57000 |
+|103 | Priyanshu	      | 65000 |
+|104 | Prince	              | 70000 |
+|105 | Sonal		      | 80000 |
++-----+-----------------------+---------+
+
+4- Delete employe
+
+	DELETE FROM employe WHERE empId=105;
+	
+output: 
+
++---------+-------------------+---------+
+|empId | name		     | salary |
++---------+-------------------+---------+
+|101 | Ankit Kumar      | 90000 |
+|102 | Aryan kumar      | 57000 |
+|103 | Priyanshu	      | 65000 |
+|104 | Prince	              | 70000 |
++-----+-----------------------+---------+
+
+ 5- Search employee by name
+ 
+ 		SELECT *  FROM Employee 
+		WHERE name LIKE 'A%';	
+output: 
++---------+-------------------+---------+
+|empId | name		     | salary |
++---------+-------------------+---------+
+|101 | Ankit Kumar      | 90000 |
+|102 | Aryan kumar      | 57000 |
++-----+-----------------------+---------+
+
+
+	
