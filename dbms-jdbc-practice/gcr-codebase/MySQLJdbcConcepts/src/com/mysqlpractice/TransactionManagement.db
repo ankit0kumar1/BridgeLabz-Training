@@ -1,0 +1,74 @@
+/*Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history*/
+
+use mysql_jdbc_practice;
+
+--------------------------------------------------
+-- Account Table
+--------------------------------------------------
+
+CREATE TABLE account(
+accountId INT PRIMARY KEY,
+name VARCHAR(100),
+balance DOUBLE
+);
+--------------------------------------------------
+-- Transaction Historyq Table
+--------------------------------------------------
+
+CREATE TABLE transaction_history(
+txnId INT AUTO_INCREMENT PRIMARY KEY,
+from_account INT,
+to_account INT,
+amount DOUBLE,
+txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT INTO account VALUES
+(1,'ANKIT' , 5000),
+(2,'ARYAN',4000);
+
+--------------------------------------------------
+-- 1. Transfer Money Between Accounts (Transaction)
+--------------------------------------------------
+
+
+START TRANSACTION;
+UPDATE account
+SET balance = balance -2000
+WHERE accountId =2;
+
+UPDATE account 
+SET balance = balance +2000
+WHERE accountId =1;
+
+INSERT INTO transaction_history(from_account , to_account, amount)
+VALUES (2,1,2000);
+
+Commit;
+--------------------------------------------------
+-- 2. Check Balance
+--------------------------------------------------
+
+
+SELECT * FROM account;
+
+-- Expected Output
+-- +------------+--------+---------+
+-- | account_id | name   | balance |
+-- +------------+--------+---------+
+-- | 1          | Ankit  | 7000    |
+-- | 2          | Aryan  | 2000    |
+-- +------------+--------+---------+
+
+SELECT * FROM transaction_history;
+
+-- +--------+--------------+------------+--------+---------------------+
+-- | txn_id | from_account | to_account | amount | txn_date            |
+-- +--------+--------------+------------+--------+---------------------+
+-- | 1      | 2            | 1          | 2000   | 2026-02-08 14:27:27 |
+-- +--------+--------------+------------+--------+---------------------+
+
